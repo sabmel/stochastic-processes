@@ -1,0 +1,1 @@
+# TODO: Provide simple executable script as example to demonstrate how users can employ the module to simulate stock prices
